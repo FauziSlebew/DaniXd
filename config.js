@@ -30,8 +30,8 @@ global.wktuwib = `${global.wibh} H ${global.wibm} M ${global.wibs} S`
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/danibotz_official' //Instagram mu
-global.sgh = 'https://github.com/YTDANIBOTZ' //Github mu
+global.sig = 'https://instagram.com/fauzibeban__' //Instagram mu
+global.sgh = 'https://github.com/FauziSlebew' //Github mu
 global.swb = 'https://fangzbot.websites.co.in'
 global.sfb = 'https://www.facebook.com/'
 global.syt = 'https://www.youtube.com/'
@@ -41,30 +41,30 @@ global.sdc = 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '081251549899' //Dana
-global.povo = '081352848936' //Ovo
-global.pgopay = '081352848936' //Gopay
-global.ppulsa = '081251549899' //Pulsa 
-global.ppulsa2 = '081352848936' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.pdana = '087837703726' //Dana
+global.povo = '087837703726' //Ovo
+global.pgopay = '087837703726' //Gopay
+global.ppulsa = '087837703726' //Pulsa 
+global.ppulsa2 = '087837703726' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = 'https://saweria.co/FangzBot' //Saweria
-global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 081352848936\n│┝‷✧ *Dana:* 081251549899\n│┝‷✧ *Gopay:* 081352848936\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
+global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 087837703726\n│┝‷✧ *Dana:* 087837703726\n│┝‷✧ *Gopay:* 087837703726\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6281352848936' //Nomor Bot mu
-global.nomorown = '6281251549899' //Nomormu
-global.namebot = 'Dani BOT' //Nama bot mu
-global.nameown = 'DaniXd' //Nama mu
+global.nomorbot = '6285945646584' //Nomor Bot mu
+global.nomorown = '6287837703726' //Nomormu
+global.namebot = '𝙁𝙖𝙪𝙯𝙞𝘽𝙤𝙩𝙯-𝙈𝙙' //Nama bot mu
+global.nameown = 'FauziGanz' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
-global.swo = 'https://wa.me/6281251549899' //Nomor mu
+global.swo = 'https://wa.me/6287837703726' //Nomor mu
 global.linksc = 'https://bit.ly/3PqdYYS' //Gausah di ganti, biar ga eror
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.botclick = '𝍤 CLICK HERE' //Bebas, Kalau gw saranin mending gausah di ganti.
 global.after = 'Bot by https://bit.ly/3QJOy9F'
-global.author = '                © Dani BOT By DaniXd' //Wm author
-global.acguest = 'Kamu akan Menggunakan akun guest dari DaniXD\n\nClick Button di bawah.'
-global.botintro = 'Hallo, Kenalin saya Dani BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *DaniXD* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
+global.author = '                © 𝙁𝙖𝙪𝙯𝙞𝘽𝙤𝙩𝙯-𝙈𝙙 By FauziGanz' //Wm author
+global.acguest = 'Kamu akan Menggunakan akun guest dari FauzGanz\n\nClick Button di bawah.'
+global.botintro = 'Hallo, Kenalin saya 𝙁𝙖𝙪𝙯𝙞𝘽𝙤𝙩𝙯-𝙈𝙙 Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *FauziGanz* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sc = 'https://telegra.ph/file/ff583768b40239651d69d.jpg'
 global.sallam = '💬 Waalaikumsallam'
 global.thumbBanned = 'https://telegra.ph/file/b810a9fbc18afc1aaa6c8.jpg'
@@ -89,14 +89,14 @@ global.guest = 'https://telegra.ph/file/b0ac5006061e9bc535a8f.jpg'
 global.thumbmenfes = 'https://telegra.ph/file/4be6353aeb9057e44825f.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6281251549899'], //Owner1
-  ['6281348106274'], //Owner2
-  ['6281352848936'], //Owner3
-  ['6281251549899', 'DANI ! 🥶', true] //Ini buat kamu!
+  ['6287837703726'], //Owner1
+  ['6287837703726'], //Owner2
+  ['6287837703726'], //Owner3
+  ['6287837703726', 'Fauzi ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Jangan di isi, Tambahin dari bot nya ketik .addprem @Fangz 15
+global.prems = [] // Jangan di isi, Tambahin dari bot nya ketik .addprem @fauzi 15
 
 
 /*⫘⫘⫘⫘ APIKEY ⫘⫘⫘⫘⫘*/
@@ -145,13 +145,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 赤 DANI - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Dani - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 DANI - BOT'
+global.wm = '                「 赤 𝙁𝙖𝙪𝙯𝙞𝘽𝙤𝙩𝙯-𝙈𝙙 ⁩இ 」' //Wm
+global.wm2 = '➳༻❀Fauzi - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤 𝙁𝙖𝙪𝙯𝙞𝘽𝙤𝙩𝙯-𝙈𝙙'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗬𝗧: DaniXD' //Ganti serah lu
+global.titlebot = '𝙁𝙖𝙪𝙯𝙞𝘽𝙤𝙩𝙯-𝙈𝙙' //Ganti serah lu
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
@@ -467,17 +467,17 @@ global.fsizedoc = '99999999999999' // 10TB
 global.fpagedoc = '999' //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = 'DaniXd'
-global.umurowner = '17'
-global.asalowner = 'Yogyakarta, Jawa tengah'
-global.nomorowner = 'wa.me/6281251549899'
+global.nameowner = 'FauziGanz'
+global.umurowner = '14'
+global.asalowner = 'Banjar, Kalimantan Selatan'
+global.nomorowner = 'wa.me/6287837703726'
 global.pacarowner = 'Ga ada pacar'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
 global.dmenut = '╭━•〔' //top
 global.dmenub = '│‣͎۪۫' //body
 global.dmenub2 = '│' //body for info cmd on Default menu
-global.dmenuf = '𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊\n\n◐ Fokus ID\n◐FangzXD\n◐The.sad.boy01\n◐Kanna\n◐Nurutomo\n◐Bochilgaming\n◐Amirul\n◐Ilham\n◐Rasel\n◐Pemakai bot ini\n◐I love you\n\n© https://bit.ly/3QJOy9F' //footer
+global.dmenuf = '𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊\n\n◐ Fokus ID\n◐Fauzi\n◐The.sad.boy01\n◐Kanna\n◐Nurutomo\n◐Bochilgaming\n◐Amirul\n◐Ilham\n◐Rasel\n◐Pemakai bot ini\n◐I love you\n\n© https://bit.ly/3QJOy9F' //footer
 
 // COMMAND MENU
 global.cmenut = '╭━•〔' //top
@@ -501,9 +501,9 @@ global.fpagedoc = '1'.repeat(10)
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = 'YT: DaniBotz'
-global.stickauth = `© Dani BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
-global.packname = 'By DaniXD'
+global.stickpack = 'Dibuat Oleh'
+global.stickauth = `© 𝙁𝙖𝙪𝙯𝙞𝘽𝙤𝙩𝙯-𝙈𝙙 by Whatsapp\nNomor: ${global.nomorbot}`
+global.packname = 'By FauziGanz'
 
 global.multiplier = 38 // The higher, The harder levelup
 
